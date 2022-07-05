@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2005Emmanuel
+- 👋 Hi, I’m Hilary Emmanuel
 - 👀 I’m interested in ...building softwares developing web applications, websites
 - 🌱 I’m currently a  ...software Engineering student 
 - 💞️ I’m looking to collaborate on ... Any open source projects 
