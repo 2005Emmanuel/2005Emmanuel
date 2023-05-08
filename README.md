@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/hilaryemmanue15" target="blank"><img src="https://img.shields.io/twitter/follow/hilaryemmanue15?logo=twitter&style=for-the-badge" alt="hilaryemmanue15" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://myportfolio-pi-gules.vercel.app/](http://myportfolio-pi-gules.vercel.app/)
 
 - 💬 Ask me about **Java**
 
