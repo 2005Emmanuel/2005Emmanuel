@@ -1,3 +1,3 @@
-#  (Hilary Emmanuel)
+#  Hilary Emmanuel
 
 ##Backend Developer
