@@ -34,6 +34,7 @@
 
 ##   Contact Me
      If you have any questions or would like to discuss a potential collaboration, you can reach me via email.
+   [Gmail](https://www.linkedin.com/in/hilary-emmanuel-080044240)
    hilaryemmanuel841@gmail.com
      I am always open to exciting Opportunities.
 
