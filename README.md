@@ -38,11 +38,11 @@
      I am always open to exciting Opportunities.
 
 ##  Connect with Me
-#### Linkedln:
-https://www.linkedin.com/in/hilary-emmanuel-080044240
+#### Linkedin:
+[linkedin](https://www.linkedin.com/in/hilary-emmanuel-080044240)
 
 ### Twitter:
-https://twitter.com/HilaryEmmanue15
+[twitter](https://twitter.com/HilaryEmmanue15)
 
 ### Download my Resume
 [Resume](https://github.com/2005Emmanuel/Resume/blob/main/Resume-Hilary-Emmanuel.pdf)
