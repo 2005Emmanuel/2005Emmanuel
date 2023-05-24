@@ -40,3 +40,8 @@
 ##  Connect with Me
 #### Linkedln:
 https://www.linkedin.com/in/hilary-emmanuel-080044240/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQcDLPy%2B1QR%2BJaPJYwAJLDQ%3D%3D
+
+### Twitter:
+https://twitter.com/HilaryEmmanue15
+
+Thank you For visiting my profile! I am excited to connect and collaborate on Interesting project in the Backend Development space.
