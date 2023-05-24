@@ -34,4 +34,5 @@
 
 ##   Contact Me
      If you have any questions or wuld like to discuss a potential collaboration,
-     you can reach me via email at hilaryemmanuel841@gmail.com. I am always open to exciting Opportunities.
+     you can reach me via email at [Link text](URL 'hilaryemmanuel841@gmail.com. ')
+     I am always open to exciting Opportunities.
