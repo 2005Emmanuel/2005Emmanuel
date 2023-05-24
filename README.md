@@ -34,5 +34,5 @@
 
 ##   Contact Me
      If you have any questions or wuld like to discuss a potential collaboration,you can reach me via email at
-   [G-mail](URL        'hilaryemmanuel841@gmail.com. ')
+  <a href="hilaryemmanuel841@gmail.com" id="back-to-top">Gmail</a> 
      I am always open to exciting Opportunities.
