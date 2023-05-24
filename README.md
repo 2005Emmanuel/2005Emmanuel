@@ -6,4 +6,7 @@
    - **Springboot**
 
 
-     i enjoy building Scalable and and efficient solutions that powers the Backbone of web applications and mobile applications.
+     I enjoy building Scalable and and efficient solutions that powers the Backbone of web  and mobile applications.
+     
+     
+##   Skills
