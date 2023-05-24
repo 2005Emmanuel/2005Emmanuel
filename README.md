@@ -33,6 +33,10 @@
 -   **JUnit**
 
 ##   Contact Me
-     If you have any questions or wuld like to discuss a potential collaboration,you can reach me via email at
+     If you have any questions or wuld like to discuss a potential collaboration,you can reach me via email.
    hilaryemmanuel841@gmail.com
      I am always open to exciting Opportunities.
+
+##  Connect with Me
+#### Linkedln:
+https://www.linkedin.com/in/hilary-emmanuel-080044240/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQcDLPy%2B1QR%2BJaPJYwAJLDQ%3D%3D
