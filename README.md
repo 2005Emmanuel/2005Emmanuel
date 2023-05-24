@@ -39,7 +39,7 @@
 
 ##  Connect with Me
 #### Linkedln:
-https://www.linkedin.com/in/hilary-emmanuel
+https://www.linkedin.com/in/hilary-emmanuel-080044240
 
 ### Twitter:
 https://twitter.com/HilaryEmmanue15
