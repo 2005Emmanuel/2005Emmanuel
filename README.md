@@ -12,3 +12,20 @@
 ##   Skills
 ###  Programming Languages:
 -    **Java**
+
+###  Backend Frameworks:
+-    **Springboot**
+-    **Hibernate**
+-    **Spring Framework**
+
+##   Databases:
+-    **MySQL**
+-    **PostgreSQL**
+
+##   APIs and Web Services
+-    **REST API**
+-    **RESTful web services.**
+
+##  Version Control
+-   **Git**
+
