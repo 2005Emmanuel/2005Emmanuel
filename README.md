@@ -1,4 +1,6 @@
 #  Hilary Emmanuel
 
 ##  Backend Developer
-    Welcome to my Github profile i am a Passionate backend Developer with expertise in
+    Welcome to my Github profile i am a Passionate backend Developer with expertise in 
+    - **Java**
+    - **Springboot**
