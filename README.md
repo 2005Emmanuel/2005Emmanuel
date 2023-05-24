@@ -45,6 +45,7 @@ https://www.linkedin.com/in/hilary-emmanuel-080044240
 https://twitter.com/HilaryEmmanue15
 
 ### Download my Resume
-https://github.com/2005Emmanuel/Resume/blob/main/Resume-Hilary-Emmanuel.pdf
+[Resume](https://github.com/2005Emmanuel/Resume/blob/main/Resume-Hilary-Emmanuel.pdf)
+
 
 Thank you For visiting my profile! I am excited to connect and collaborate on Interesting project in the Backend Development space.
